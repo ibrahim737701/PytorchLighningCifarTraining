@@ -1,4 +1,4 @@
-![image](https://github.com/ibrahim737701/TSAI-S13/assets/51760306/3c345619-959f-45f3-b5ec-c5a85bfa0853)# TSAI-S13
+
 Pytorch lightning code for CIFAR10
 
 # Metrics
